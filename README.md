@@ -44,7 +44,7 @@ README.md : Ce document explicatif.
 
 Clonez le dépôt :
 
-git clone -b master https://github.com/MedRiadh2001/TP1_SOA.git
+git clone https://github.com/MedRiadh2001/TP1_SOA.git
 
 Accédez au répertoire du projet :
 
